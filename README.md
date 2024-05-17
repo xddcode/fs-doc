@@ -17,7 +17,7 @@
 + [Github](https://www.github.com/dh-free/free-fs)
 
 **开发文档：**
-[https://dh_free.gitee.io/free-fs-doc](https://dh_free.gitee.io/free-fs-doc)
+[文档](https://xddcode.github.io/fs-doc/)
 
 **在线预览：**
 [https://fs.elites.chat](https://fs.elites.chat)
